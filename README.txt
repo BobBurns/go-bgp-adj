@@ -10,7 +10,7 @@ Set up and run
 $ echo api-password > apass
 
 change line : 
-  akipsURL := "https://put-your-url-here/api-db?password=" + pass
+  akipsURL := "https://put-akips-url-here/api-db?password=" + pass
 
 $ go build
 
